@@ -1,0 +1,2 @@
+[scrapy]
+settings = puppis_project.settings

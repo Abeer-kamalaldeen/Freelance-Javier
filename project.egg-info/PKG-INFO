@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: project
+Version: 1.0
+Requires-Dist: pandas
+Requires-Dist: BeautifulSoup4
+Requires-Dist: numpy

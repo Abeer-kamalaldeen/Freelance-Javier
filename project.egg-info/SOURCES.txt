@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/requires.txt
+project.egg-info/top_level.txt
+puppis_project/__init__.py
+puppis_project/items.py
+puppis_project/middlewares.py
+puppis_project/pipelines.py
+puppis_project/settings.py
+puppis_project/spiders/__init__.py
+puppis_project/spiders/puppis_spider.py
